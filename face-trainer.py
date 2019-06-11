@@ -19,13 +19,10 @@ for root, dirs, files in os.walk(image_dir):
     for file in files:
         if file.endswith("png") or file.endswith("jpg"):
             path = os.path.join(root, file)
-<<<<<<< HEAD
-            label = os.path.base name(root).replace(" ", "-").lower()
+            label = os.path.basename(root).replace(" ", "-").lower()
             # print(label, path)
-=======
             label = os.path.basename(root).replace(" ", "-").lower()
             print(label, path)
->>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
             if not label in label_ids:
                 label_ids[label] = current_id
                 current_id += 1

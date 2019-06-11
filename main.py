@@ -16,7 +16,7 @@ while True:
         roi_gray = gray[y:y+h, x:x+w]
         roi_color = frame[y:y+h, x:x+w] # (y, y + h)
 
-        cv2.imwrite("images/Vanya/" + str(cnt) + ".png" , roi_gray)
+        cv2.imwrite("images/Nikita/" + str(cnt) + ".png" , roi_gray)
         cnt +=1
         if cnt > 30:
             break
