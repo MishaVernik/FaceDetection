@@ -2,13 +2,14 @@ import cv2
 
 def viewImage(image, name_of_window):
     cv2.namedWindow(name_of_window, cv2.WINDOW_NORMAL)
-    cv2.i   mshow(name_of_window, image)
+    cv2.imshow(name_of_window, image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-def cropped():
-    cropped = image[30:500, 100:2000]  # image[y:y + высота, x:x + ширина].
-    viewImage(cropped, "Dog after cropping")
+def cropped(image):
+    sizes = image.shape
+    cropped = image[int(sizes[0] * 0.25):int(sizes[0] * 0.75), int(sizes[1] * 0.25):int(sizes[1] * 0.75)]  # image[y:y + высота, x:x + ширина].
+    return cropped
 
 def change_size():
     img = cv2.imread("dog2.jpeg")
@@ -91,7 +92,7 @@ def text():
     viewImage(output, "Image with a text label")
 
 
-def recognize_image():
+def recognize_image(image):
     """
     detectMultiScale — общая функция для распознавания как лиц, так и объектов. Чтобы функция искала именно лица, мы передаём ей соответствующий каскад.
 
@@ -105,9 +106,7 @@ def recognize_image():
     minSize — непосредственно размер этих областей.
     :return:
     """
-    image_path = "girls.jpeg"
     face_cascade = cv2.CascadeClassifier('venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml')
-    image = cv2.imread(image_path)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     faces = face_cascade.detectMultiScale(
         gray,
@@ -119,23 +118,9 @@ def recognize_image():
     print(faces_detected)
     # Рисуем квадраты вокруг лиц
     for (x, y, w, h) in faces:
-        cv2.rectangle(image, (x, y), (x + w, y + h), (255, 255, 0), 2)
+        cv2.rectangle(image, (x, y), (x + w, y + h), (0, 0, 255), 2)
     viewImage(image, faces_detected)
 
 def save_img():
     image = cv2.imread("./импорт/путь.расширение")
     cv2.imwrite("./экспорт/путь.расширение", image)
-
-image = cv2.imread("dog.jpeg")
-cv2.imshow("Image", image)
-#rotate()
-
-cv2.waitKey(0)
-#cropped()
-#change_color()
-#blur()
-#change_color()
-rectangle()
-#line()
-#recognize_image()
-cv2.destroyAllWindows()
