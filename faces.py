@@ -3,12 +3,12 @@ import cv2
 import pickle
 
 face_cascade = cv2.CascadeClassifier('venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml')
-eye_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_eye.xml')
-smile_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_smile.xml')
+#eye_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_eye.xml')
+#smile_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_smile.xml')
 
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-recognizer.read("./recognizers/face-trainner.yml")
+recognizer.read("recognizers/face-trainer.yml")
 
 labels = {"person_name": 1}
 with open("pickles/face-labels.pickle", 'rb') as f:
@@ -29,7 +29,7 @@ while(True):
 
     	# recognize? deep learned model predict keras tensorflow pytorch scikit learn
     	id_, conf = recognizer.predict(roi_gray)
-    	if conf>=4 and conf <= 85:
+    	if conf>= 4 and conf <= 85:
     		#print(5: #id_)
     		#print(labels[id_])
     		font = cv2.FONT_HERSHEY_SIMPLEX
