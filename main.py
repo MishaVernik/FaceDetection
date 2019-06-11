@@ -4,6 +4,7 @@ import cv2
 face_cascade = cv2.CascadeClassifier('venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml')
 capture = cv2.VideoCapture(0)
 
+cnt = 0
 while True:
     # Capure frame-by-frame
     ret, frame = capture.read()
@@ -12,10 +13,13 @@ while True:
     for (x, y, w, h) in faces:
         print(x, y, w, h)
     #   capture your face
-      #  roi_gray = gray[y:y+h, x:x+w]
+        roi_gray = gray[y:y+h, x:x+w]
         roi_color = frame[y:y+h, x:x+w] # (y, y + h)
 
-       # cv2.imwrite("myface.png", roi_gray)
+        cv2.imwrite("images/Vanya/" + str(cnt) + ".png" , roi_gray)
+        cnt +=1
+        if cnt > 30:
+            break
 
         color = (255, 0, 0) #BGR
 

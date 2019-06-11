@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="40e74006-84e6-42d1-b621-b962bd5b27f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/face-trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/face-trainer.py" afterDir="false" />
     </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="40e74006-84e6-42d1-b621-b962bd5b27f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Misha/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Misha/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face-trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/face-trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces.py" beforeDir="false" afterPath="$PROJECT_DIR$/faces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="40e74006-84e6-42d1-b621-b962bd5b27f3" name="Default Changelist" comment="" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +75,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/face-trainer.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="374">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="510">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+=======
+            <state relative-caret-position="264">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -39,8 +109,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/test_0001.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/face-trainer.py" />
       </list>
     </option>
@@ -53,6 +123,11 @@
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/../Test_0001/.idea/Test_0001.iml" />
+=======
+        <option value="$PROJECT_DIR$/faces.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/face-trainer.py" />
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
       </list>
     </option>
   </component>
@@ -85,10 +160,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/Misha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\GitLab\FaceDetection\images\Misha" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,7 +182,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.faces">
+=======
   <component name="RunManager" selected="Python.face-trainer">
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
     <configuration name="Python3.7" type="PythonConfigurationType" factoryName="Python">
       <module name="OpenCv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,9 +216,15 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+=======
       <option name="SDK_HOME" value="D:\PROJECTS\Python\test\test_repo\test\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -147,6 +237,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="faces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/faces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+=======
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenCv" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,12 +311,26 @@
       <item itemvalue="Python.face-trainer" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test_0001" />
+<<<<<<< HEAD
+=======
+      <item itemvalue="Python.face-trainer" />
+<<<<<<< HEAD
+      <item itemvalue="Python.faces" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.faces" />
+        <item itemvalue="Python.face-trainer" />
+=======
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.face-trainer" />
         <item itemvalue="Python.test_0001" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.test_0001" />
       </list>
     </recent_temporary>
   </component>
@@ -220,20 +349,41 @@
       <workItem from="1559636788109" duration="248000" />
       <workItem from="1559884366978" duration="12685000" />
       <workItem from="1560001095984" duration="1745000" />
+<<<<<<< HEAD
+      <workItem from="1560238255692" duration="4265000" />
+      <workItem from="1560242891891" duration="1504000" />
+=======
       <workItem from="1560007416828" duration="1909000" />
       <workItem from="1560034002781" duration="284000" />
       <workItem from="1560235360036" duration="2549000" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="24789000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="24814000" />
+=======
+    <option name="totallyTimeSpent" value="23787000" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13404825" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26863754" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2727882" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,29 +405,208 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.32969153" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33109018" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32969153" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/FaceDetection$main.coverage" NAME="main Coverage Results" MODIFIED="1560244245658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceDetection$faces.coverage" NAME="faces Coverage Results" MODIFIED="1560244434640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCv$Python3_7.coverage" NAME="Python3.7 Coverage Results" MODIFIED="1559393110630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/OpenCv$main.coverage" NAME="main Coverage Results" MODIFIED="1559884573985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceDetection$face_trainer.coverage" NAME="face-trainer Coverage Results" MODIFIED="1560244414548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCv$test_0001.coverage" NAME="test_0001 Coverage Results" MODIFIED="1559903255762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceDetection$test_0001.coverage" NAME="test_0001 Coverage Results" MODIFIED="1560238326403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
     <SUITE FILE_PATH="coverage/FaceDetection$test_0001.coverage" NAME="test_0001 Coverage Results" MODIFIED="1560237382102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FaceDetection$face_trainer.coverage" NAME="face-trainer Coverage Results" MODIFIED="1560238710717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FaceDetection$main.coverage" NAME="main Coverage Results" MODIFIED="1560009420037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCv$test_0001.coverage" NAME="test_0001 Coverage Results" MODIFIED="1559903255762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpenCv$Python3_7.coverage" NAME="Python3.7 Coverage Results" MODIFIED="1559393110630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/OpenCv$main.coverage" NAME="main Coverage Results" MODIFIED="1559884573985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Scripts/activate.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-329">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.png">
+    <entry file="file://$PROJECT_DIR$/images/Andre/32.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/30.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/images/Andre/29.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/27.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/24.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/22.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/47.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/50.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/51.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/53.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/54.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/56.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/59.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/62.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/65.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/66.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/69.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/70.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/71.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/60.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/14.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/29.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/38.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/56.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/59.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/57.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/54.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/50.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/47.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/67.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/68.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Vanya/46.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/52.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/55.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/57.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/58.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/43.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/40.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/28.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/25.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Andre/18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face-trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+=======
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/795010245/cv2/cv2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/dog.jpeg">
       <provider selected="true" editor-type-id="images" />
@@ -301,8 +630,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/face-trainer.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="374">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+=======
+        <state relative-caret-position="264">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+>>>>>>> 8a867a75021f365afd3ce44a2c742c39fb43704e
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

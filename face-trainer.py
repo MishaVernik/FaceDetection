@@ -5,7 +5,7 @@ from PIL import Image
 import pickle
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-image_dir = os.path.join(BASE_DIR, "images")
+image_dir = os.path.join(BASE_DIR, "images") # 1 - к чему цепляем , 2 - что цепляем
 
 face_cascade = cv2.CascadeClassifier('venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
@@ -19,13 +19,18 @@ for root, dirs, files in os.walk(image_dir):
     for file in files:
         if file.endswith("png") or file.endswith("jpg"):
             path = os.path.join(root, file)
+<<<<<<< HEAD
             label = os.path.base name(root).replace(" ", "-").lower()
             # print(label, path)
+=======
+            label = os.path.basename(root).replace(" ", "-").lower()
+            print(label, path)
+>>>>>>> 2e76b96e5ac290e883b5af55d49bde90398a0a4b
             if not label in label_ids:
                 label_ids[label] = current_id
                 current_id += 1
             id_ = label_ids[label]
-            # print(label_ids)
+            print(label_ids)
             # y_labels.append(label) # some number
             # x_train.append(path) # verify this image, turn into a NUMPY arrray, GRAY
             pil_image = Image.open(path).convert("L")  # grayscale
@@ -40,8 +45,8 @@ for root, dirs, files in os.walk(image_dir):
                 x_train.append(roi)
                 y_labels.append(id_)
 
-# print(y_labels)
-# print(x_train)
+print(y_labels)
+print(x_train)
 
 with open("pickles/face-labels.pickle", 'wb') as f:
     pickle.dump(label_ids, f)
