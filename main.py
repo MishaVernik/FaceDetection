@@ -5,7 +5,7 @@ face_cascade = cv2.CascadeClassifier('venv/Lib/site-packages/cv2/data/haarcascad
 capture = cv2.VideoCapture(0)
 
 cnt = 0
-while True:
+while cnt < 800:
     # Capure frame-by-frame
     ret, frame = capture.read()
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -16,7 +16,7 @@ while True:
         roi_gray = gray[y:y+h, x:x+w]
         roi_color = frame[y:y+h, x:x+w] # (y, y + h)
 
-        cv2.imwrite("images/Nikita/" + str(cnt) + ".png" , roi_gray)
+        cv2.imwrite("images/Nastya Chobotyuk/" + str(cnt) + ".png" , roi_gray)
         cnt +=1
         if cnt > 30:
             break
